@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://MiracleBreakthroughs.com/$1"
+      "destination": "https://miraclebreakthroughs.com/$1"
  }
   ]
 }
